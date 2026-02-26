@@ -1,0 +1,14 @@
+/Users/raifanargya/Documents/VS CODE/OOP LAB 3 1/obj/Debug/net10.0/OOP LAB 3 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raifanargya/Documents/VS CODE/OOP LAB 3 1/obj/Debug/net10.0/OOP LAB 3 1.AssemblyInfoInputs.cache
+/Users/raifanargya/Documents/VS CODE/OOP LAB 3 1/obj/Debug/net10.0/OOP LAB 3 1.AssemblyInfo.cs
+/Users/raifanargya/Documents/VS CODE/OOP LAB 3 1/obj/Debug/net10.0/OOP LAB 3 1.csproj.CoreCompileInputs.cache
+/Users/raifanargya/Documents/VS CODE/OOP LAB 3 1/bin/Debug/net10.0/OOP LAB 3 1
+/Users/raifanargya/Documents/VS CODE/OOP LAB 3 1/bin/Debug/net10.0/OOP LAB 3 1.deps.json
+/Users/raifanargya/Documents/VS CODE/OOP LAB 3 1/bin/Debug/net10.0/OOP LAB 3 1.runtimeconfig.json
+/Users/raifanargya/Documents/VS CODE/OOP LAB 3 1/bin/Debug/net10.0/OOP LAB 3 1.dll
+/Users/raifanargya/Documents/VS CODE/OOP LAB 3 1/bin/Debug/net10.0/OOP LAB 3 1.pdb
+/Users/raifanargya/Documents/VS CODE/OOP LAB 3 1/obj/Debug/net10.0/OOP LAB 3 1.dll
+/Users/raifanargya/Documents/VS CODE/OOP LAB 3 1/obj/Debug/net10.0/refint/OOP LAB 3 1.dll
+/Users/raifanargya/Documents/VS CODE/OOP LAB 3 1/obj/Debug/net10.0/OOP LAB 3 1.pdb
+/Users/raifanargya/Documents/VS CODE/OOP LAB 3 1/obj/Debug/net10.0/OOP LAB 3 1.genruntimeconfig.cache
+/Users/raifanargya/Documents/VS CODE/OOP LAB 3 1/obj/Debug/net10.0/ref/OOP LAB 3 1.dll
